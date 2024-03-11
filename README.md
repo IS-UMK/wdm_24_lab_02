@@ -2,8 +2,8 @@
 
 Zapoznaj się z zawartością notatnika Jupyter umieszczonego w repozytorium  i wykonaj zawarte w nim ćwiczenia.
 
-Notatnik: [02_numpy.ipynb](https://github.com/IS-UMK/wdm_23_lab_02/blob/master/02_numpy.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IS-UMK/Rwdm_23_lab_02/blob/master/02_numpy.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IS-UMK/wdm_23_lab_02/master?filepath=02_numpy.ipynb)
+Notatnik: [02_numpy.ipynb](02_numpy.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IS-UMK/wdm_24_lab_02/blob/master/02_numpy.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IS-UMK/wdm_24_lab_02/master?filepath=02_numpy.ipynb)
 
 ---
 
